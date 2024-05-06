@@ -1,0 +1,1 @@
+var globalVariable = "http://localhost/demo/";
